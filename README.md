@@ -14,4 +14,6 @@ To enhance the project and make it more user-friendly, I have plans of creating 
 
 **Reflections:**
 
-Working on a project that leverages my gaming expertise was an absolute blast. The level of enjoyment and intrigue remained constant, irrespective of the project's complexity. Incorporating familiar concepts like health depletion and player classes streamlined the coding process, aided further by ChatGPT, which brought clarity to the logic and reduced the code's disorderliness. Nonetheless, there's a potential for things to spiral out of control swiftly, underscoring the significance of comprehending my code; otherwise, I'd find myself starting anew. Persevering through challenges fills me with contentment, having produced something of decent quality. Excitedly looking forward to embarking on the next project!
+Working on a project that leverages my gaming expertise was an absolute blast. The level of enjoyment and intrigue remained constant, irrespective of the project's complexity. Incorporating familiar concepts like health depletion and player classes streamlined the coding process, aided further by ChatGPT, which brought clarity to the logic and reduced the code's disorderliness. 
+
+Nonetheless, there's a potential for things to spiral out of control swiftly, underscoring the significance of comprehending my code; otherwise, I'd find myself starting anew. Persevering through challenges fills me with contentment, having produced something of decent quality. Excitedly looking forward to embarking on the next project!
